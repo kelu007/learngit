@@ -1,7 +1,5 @@
 # Git 常用命令
 
-[TOC]
-
 ## 基本命令
 
 * 初始化一个Git仓库，使用`git init`命令。
@@ -26,7 +24,7 @@
 
 如下图所示，stage 即为暂存区。
 
-![](imgs/工作区&暂存区.png)
+![Working&StageSpace](imgs/Working&StageSpace.png)
 
 ### 管理修改
 
