@@ -1,13 +1,5 @@
 # Git 常用命令
 
-> @github
->
-> user name: kelu007
->
-> password: WKYXjx200920
->
->  passphrase for key '/c/Users/kelu/.ssh/id_rsa': 200920
-
 ## 基本命令
 
 * 初始化一个Git仓库，使用`git init`命令。
@@ -32,7 +24,7 @@
 
 如下图所示，stage 即为暂存区。
 
-![](imgs/工作区&暂存区.png)
+![Working&StageSpace](imgs/Working&StageSpace.png)
 
 ### 管理修改
 
